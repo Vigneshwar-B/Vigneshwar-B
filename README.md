@@ -77,4 +77,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshwar-b&show_icons=true&locale=en" alt="vigneshwar-b" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwar-b" alt="vigneshwar-b" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vigneshwar-b&theme=dark&date_format=j%20M%5B%20Y%5D" alt="vigneshwar-b" /></p>
+
